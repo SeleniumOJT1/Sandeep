@@ -9,5 +9,6 @@ public class AppTest
 	public void sample()
 	{
 		System.out.println("VasuDeva Maven ");
+		System.out.println("VasuDeva ");
 	}
 }
